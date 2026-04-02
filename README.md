@@ -1,7 +1,11 @@
-<h1 align="center">Olá! eu sou a Laryssa. 👋</h1>
+<h1 align="center">Olá mundo! eu sou a Laryssa.<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
   <em>Iniciante em front-end • Criativa + Open Science • curiosa 🚀</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LaryssaHtml&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -22,7 +26,7 @@
   </a>
 
   <a href="mailto:laryssaferreira26@gmail.com">
-    <img src="https://img.shields.io/badge/-laryssaferreira26%40gmail.com-8A2BE2?style=flat-square&logo=Gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-Contato-8A2BE2?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -38,7 +42,7 @@
 
 ---
 
-## 💻 Destaques das Tecnologias
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Destaques das Tecnologias
 
 <p align="center">
   <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LaryssaHtml&layout=compact&hide_border=true&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117" />
@@ -46,7 +50,7 @@
 
 ---
 
-## 🟣 Minha Jornada no Código
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Minha jornada no código </b>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LaryssaHtml&show_icons=true&theme=github_dark&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff" />
@@ -59,6 +63,7 @@
 
 # 🏅 Medalhas
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/2f3930c1-3370-4305-9d6b-1ea7e55fe88e" target="_blank">
@@ -68,4 +73,14 @@
   <a href="https://www.credly.com/earner/earned/badge/970668da-f502-4a05-8e87-d6b622d259a6" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" width="110px"/>
   </a>
+</p>
+
+
+## 
+<b> Skills</b>
+<br>
+
+## Vamos nos conectar!
+<p align="left">
+<a href="https://linkedin.com/in/laryssa-ferreira-2608a4333" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a><a href="https://instagram.com/emotionalssciencegirl" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
 </p>
