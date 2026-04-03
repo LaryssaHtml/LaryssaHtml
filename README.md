@@ -2,6 +2,7 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 <h1 align="center">Olá mundo! eu sou a Laryssa.<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
   <em>Iniciante em front-end • Criativa + Open Science • curiosa <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /></em>
@@ -56,13 +57,8 @@
 ---
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <em> Minha jornada no código </em>
+## <p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <em> Minha jornada no código </em> </p>
 
-
-
-<p align="center">
-  <em>Construindo aos poucos, todos os dias.</em> 🚀
-</p>
 
 <p align="center">
 <img 
@@ -71,23 +67,26 @@
 />
 </p>
 
+<p align="center">
+  <em>Construindo aos poucos, todos os dias.</em> 🚀
+</p>
+
+<hr>
+
 # 🏅 Medalhas
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">
-  <a href="https://www.credly.com/earner/earned/badge/2f3930c1-3370-4305-9d6b-1ea7e55fe88e" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/a9cb9c79-8ed0-4626-9f5d-953b3e6c2597/blob" width="110px"/>
-  </a>
-
-  <a href="https://www.credly.com/earner/earned/badge/970668da-f502-4a05-8e87-d6b622d259a6" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" width="110px"/>
-  </a>
+  <a href="https://www.credly.com/earner/earned/badge/2f3930c1-3370-4305-9d6b-1ea7e55fe88e" target="_blank"><img src="https://images.credly.com/size/340x340/images/a9cb9c79-8ed0-4626-9f5d-953b3e6c2597/blob" width="100px"/></a><a href="https://www.credly.com/earner/earned/badge/970668da-f502-4a05-8e87-d6b622d259a6" target="_blank"><img src="https://images.credly.com/size/340x340/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" width="100px" style="margin-left: 10px;"/></a><a href="https://www.nasa.gov/specials/artemis-ii/" target="_blank"><img src="https://github.com/LaryssaHtml/LaryssaHtml/raw/main/artemis-badge.png" width="100px" style="margin-left: 10px;"/></a>
 </p>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+ 
+<br>
 
-<h3 align="left"> Skills e Ferramentas: </h3>
+
+<h2 align="left"> Skills e Ferramentas: </h2>
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code></a>
@@ -97,7 +96,8 @@
    <a href="https://github.com/" target="_blank" rel="noreferrer"><code><img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="GitHub"/></code></a>
 </p>
 </p>
- <hr> 
+
+ <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### Atualmente ouvindo... 🎧
 
@@ -116,9 +116,11 @@
 
 <br clear="left" />
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## Vamos nos conectar! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <p align="center">
   <a href="https://linkedin.com/in/laryssa-ferreira-2608a4333" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="margin-right:10px; vertical-align: middle;" /></a>
