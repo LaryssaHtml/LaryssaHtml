@@ -1,11 +1,15 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-<h1 align="center">Olá mundo! eu sou a Laryssa.<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">
+ <em> Hello World! Eu sou a Laryssa.</em>
+  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+</h1>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
-  <em>Iniciante em front-end • Criativa + Open Science • curiosa <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /></em>
+  <em>Iniciante em front-end • Criativa + Open Science • Curiosa <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50"/></em>
 </p>
 
 <p align="center">
@@ -81,12 +85,12 @@
   <a href="https://www.credly.com/earner/earned/badge/2f3930c1-3370-4305-9d6b-1ea7e55fe88e" target="_blank"><img src="https://images.credly.com/size/340x340/images/a9cb9c79-8ed0-4626-9f5d-953b3e6c2597/blob" width="100px"/></a><a href="https://www.credly.com/earner/earned/badge/970668da-f502-4a05-8e87-d6b622d259a6" target="_blank"><img src="https://images.credly.com/size/340x340/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" width="100px" style="margin-left: 10px;"/></a><a href="https://www.nasa.gov/specials/artemis-ii/" target="_blank"><img src="https://github.com/LaryssaHtml/LaryssaHtml/raw/main/artemis-badge.png" width="100px" style="margin-left: 10px;"/></a>
 </p>
 
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
- 
-<br>
 
 
 <h2 align="left"> Skills e Ferramentas: </h2>
+
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code></a>
@@ -118,13 +122,23 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## Vamos nos conectar! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h2 align="left">
+  Vamos nos conectar! 
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
+</h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/laryssa-ferreira-2608a4333" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="margin-right:10px; vertical-align: middle;" /></a>
-  <a href="https://instagram.com/emotionalssciencegirl" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="margin-right:10px; vertical-align: middle;" /></a>
-  <a href="https://www.github.com/LaryssaHtml" target="_blank"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" height="30" width="40" style="margin-right:10px; vertical-align: middle;" /></a>
-  <a href="https://discord.com/users/1030096877464584213" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" style="vertical-align: middle;" /></a>
+<img src="https://raw.githubusercontent.com/LaryssaHtml/LaryssaHtml/main/word-cloud.png" width="300px" align="right" alt="Minha Nuvem de Palavras">
+
+<p align="left">
+  <br>
+  <a href="https://linkedin.com/in/laryssa-ferreira-2608a4333" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="margin-right:10px;" /></a>
+  <a href="https://instagram.com/emotionalssciencegirl" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="margin-right:10px;" /></a>
+  <br><br>
+  <a href="https://www.github.com/LaryssaHtml" target="_blank"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" height="30" width="40" style="margin-right:10px;" /></a>
+  <a href="https://discord.com/users/1030096877464584213" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" /></a>
 </p>
+
+<br clear="right">
+
+Editado pela última vez em: 02/04/2026
