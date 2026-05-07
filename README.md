@@ -44,9 +44,9 @@
 
 ### 🧠 Sobre mim
 
-* Criando um projeto estilo streaming (DoctorFlix)
+* Criando um projeto estilo streaming <a href="https://laryssahtml.github.io/Netflix-projeto/">(DoctorFlix)</a>
 *  Aprendendo HTML, CSS e começando JavaScript
-*  Interessada em Open Science, Open Code e tecnologia
+*  Interessada em Open Science, Open Code, tecnologia e psicologia
 *  Cheia de ideias criativas (às vezes até demais)
 *  Amo projetos com estética e personalidade
 
@@ -91,15 +91,15 @@
 
 <h2 align="left"> Skills e Ferramentas: </h2>
 
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><code><img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" alt="visual_studio_code" width="40" height="40"/></code></a>
-   <a href="https://github.com/" target="_blank" rel="noreferrer"><code><img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="GitHub"/></code></a>
-</p>
-</p>
+<table border="0">
+  <tr>
+    <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
+    <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
+    <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
+    <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" alt="vsc" width="40" height="40"/></a></td>
+    <td><a href="https://github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="GitHub"/></a></td>
+  </tr>
+</table>
 
  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -130,14 +130,14 @@
 
 <img src="https://raw.githubusercontent.com/LaryssaHtml/LaryssaHtml/main/word-cloud.png" width="300px" align="right" alt="Minha Nuvem de Palavras">
 
-<p align="left">
-  <br>
-  <a href="https://linkedin.com/in/laryssa-ferreira-2608a4333" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="margin-right:10px;" /></a>
-  <a href="https://instagram.com/emotionalssciencegirl" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="margin-right:10px;" /></a>
-  <br><br>
-  <a href="https://www.github.com/LaryssaHtml" target="_blank"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" height="30" width="40" style="margin-right:10px;" /></a>
-  <a href="https://discord.com/users/1030096877464584213" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" /></a>
-</p>
+<table border="0">
+  <tr>
+    <td><a href="https://linkedin.com/in/laryssa-ferreira-2608a4333" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
+    <td><a href="https://instagram.com/emotionalssciencegirl" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></td>
+    <td><a href="https://www.github.com/LaryssaHtml" target="_blank"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" height="30" width="40" /></a></td>
+    <td><a href="https://discord.com/users/1030096877464584213" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" /></a></td>
+  </tr>
+</table>
 
 <br clear="right">
 
