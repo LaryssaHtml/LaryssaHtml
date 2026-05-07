@@ -23,9 +23,9 @@
 ---
 
 <p align="center">
-  Me dê uma ideia e eu penso como engenheira até transformar em algo real 💡 <br>
-  Criando experiências web criativas e nostálgicas <br>
-  Evoluindo no código um passo de cada vez 🚀
+  Penso como engenheira, exploro como cientista.💡 <br>
+   Arquitetando interfaces sob os princípios FAIR para transformar dados <br>
+   em conhecimento aberto e impacto real no mundo.
 </p>
 
 <p align="center">
@@ -45,10 +45,20 @@
 ### 🧠 Sobre mim
 
 * Criando um projeto estilo streaming <a href="https://laryssahtml.github.io/Netflix-projeto/">(DoctorFlix)</a>
-*  Aprendendo HTML, CSS e começando JavaScript
-*  Interessada em Open Science, Open Code, tecnologia e psicologia
+*  Criando um projeto para Saúde Mental (Suds Tracker)
+*  Aprendendo HTML, CSS e começando JavaScript e SQL.
+*  Interessada em Open Science, Open Code e tecnologia
+*  Estudante de psicologia em progresso.
 *  Cheia de ideias criativas (às vezes até demais)
-*  Amo projetos com estética e personalidade
+*  Amo projetos com estética e personalidade e diferenciados!
+*  Amo ciência Cidadã me destacando com mais de 7.663 classificações no Zooniverse em active asteroids,
+   2115 no minor planet, 1247 no Rubin comet catchers ao todo contribui em 15 projetos. Colaborar com a ciência
+   é mais divertido do que parece.
+*  Nerd 🤓
+*  Apaixonada por Grey's Anatomy e Mark Rober
+*  Sempre evoluindo nos estudos e aprendizados, conhecendo e aprendendo novas coisas
+*  Minha maior motivação é alguém especial que está ao meu lado todos os dias.
+
 
 ---
 
@@ -83,6 +93,9 @@
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/2f3930c1-3370-4305-9d6b-1ea7e55fe88e" target="_blank"><img src="https://images.credly.com/size/340x340/images/a9cb9c79-8ed0-4626-9f5d-953b3e6c2597/blob" width="100px"/></a><a href="https://www.credly.com/earner/earned/badge/970668da-f502-4a05-8e87-d6b622d259a6" target="_blank"><img src="https://images.credly.com/size/340x340/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" width="100px" style="margin-left: 10px;"/></a><a href="https://www.nasa.gov/specials/artemis-ii/" target="_blank"><img src="https://github.com/LaryssaHtml/LaryssaHtml/raw/main/artemis-badge.png" width="100px" style="margin-left: 10px;"/></a>
+<a href="#"><img src="https://github.com/LaryssaHtml/LaryssaHtml/raw/main/artemisii-launcher.png" width="100px" style="margin-left: 10px;"/></a><a href="#"><img src="https://github.com/LaryssaHtml/LaryssaHtml/raw/main/Northrop-Grumman.png" width="110px" style="margin-left: 10px;"/></a>
+<a href="https://certificates.cs50.io/ee976772-3e55-45e3-9cb8-d5a95591730b.pdf?size=letter"><img src="https://github.com/LaryssaHtml/LaryssaHtml/raw/main/Harvard-Cs50x.png" width="100px" style="margin-left: 10px;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://certificates.cs50.io/ee976772-3e55-45e3-9cb8-d5a95591730b.pdf?size=letter"><img src="https://github.com/LaryssaHtml/LaryssaHtml/raw/main/cs50x.png" width="100px" style="margin-left: 5px;"/></a>
+<a href="#"><img src="https://github.com/LaryssaHtml/LaryssaHtml/raw/main/Stanford-medicine.png" width="160px" style="margin-left: 10px;"/></a>
 </p>
 
 
@@ -141,4 +154,4 @@
 
 <br clear="right">
 
-Editado pela última vez em: 02/04/2026
+Editado pela última vez em: 07/05/2026
